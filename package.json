@@ -1,6 +1,7 @@
 {
   "main": "index.js",
   "dependencies": {
+    "js-base64": "^3.6.0",
     "node-fetch": "^2.6.1"
   }
 }

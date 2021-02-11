@@ -1,2 +1,2 @@
 # crypto
-The thing that updated it
+The updater

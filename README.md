@@ -1,3 +1,3 @@
-BTC Price: $47,486.3544
+BTC Price: $47,261.6325
 
-Date: Fri Feb 12 2021 01:46:15 GMT-0500 (Eastern Standard Time)
+Date: Fri Feb 12 2021 02:06:15 GMT-0500 (Eastern Standard Time)
